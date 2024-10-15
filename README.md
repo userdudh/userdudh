@@ -23,12 +23,12 @@
 
  
 ### Other Knowledge:
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp; 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=purple&labelColor=0D1117)&nbsp; 
+![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117)&nbsp; 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb0d1&height=120&section=footer"/>
